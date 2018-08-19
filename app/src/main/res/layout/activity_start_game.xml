@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorBlueBack"
+    android:weightSum="4"
+    >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/beginnerbutton"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="30dp"
+        android:text="@string/beginner"
+        android:textSize="7pt"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/mediumbutton"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="30dp"
+        android:text="@string/medium"
+        android:textSize="7pt"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/expertbutton"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="30dp"
+        android:text="@string/expert"
+        android:textSize="7pt"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/custombutton"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="30dp"
+        android:text="@string/custom"
+        android:textSize="7pt"
+        />
+
+</LinearLayout>

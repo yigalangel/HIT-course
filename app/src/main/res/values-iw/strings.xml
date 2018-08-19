@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="start">משחק חדש</string>
+    <string name="Score">לוח תוצאות</string>
+    <string name="medium">בינוני</string>
+    <string name="beginner">מתחיל</string>
+    <string name="expert">מומחה</string>
+    <string name="custom">התאמה אישית</string>
+</resources>
