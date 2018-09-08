@@ -7,4 +7,6 @@
     <string name="beginner">מתחיל</string>
     <string name="expert">מומחה</string>
     <string name="custom">התאמה אישית</string>
+    <string name="challenge">אתגר</string>
+    <string name="hints">בונוס</string>
 </resources>

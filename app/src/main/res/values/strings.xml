@@ -6,4 +6,7 @@
     <string name="beginner">beginner</string>
     <string name="expert">expert</string>
     <string name="custom">custom</string>
+    <string name="hints">hints</string>
+
+    <string name="challenge">challenge</string>
 </resources>
